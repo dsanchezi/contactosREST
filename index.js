@@ -1,6 +1,9 @@
 /*
 Aplicación estructurada en carpetas para una API REST completa sobre
 contactos, restaurantes y mascotas
+
+modificado jueves
+
 */
 
 // Librerías
